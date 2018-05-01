@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\bin\Debug\C2_lesson1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\bin\Debug\C2_lesson1.exe
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\bin\Debug\C2_lesson1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.exe
+c:\users\admin\documents\visual studio 2013\Projects\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.pdb
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\bin\Debug\C2_lesson1.exe.config
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\bin\Debug\C2_lesson1.exe
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\bin\Debug\C2_lesson1.pdb
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.csprojResolveAssemblyReference.cache
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.Properties.Resources.resources
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.csproj.GenerateResource.cache
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.exe
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.pdb
