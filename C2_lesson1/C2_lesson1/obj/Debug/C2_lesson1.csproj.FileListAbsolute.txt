@@ -15,3 +15,4 @@ C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.cs
 C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.csproj.CoreCompileInputs.cache
 C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.exe
 C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.pdb
+C:\Users\Гудвин\source\repos\C2_lesson1\C2_lesson1\obj\Debug\C2_lesson1.Form1.resources

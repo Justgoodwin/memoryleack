@@ -13,6 +13,8 @@ namespace C2_lesson1
         protected Point Dir;
         protected Size Size;
 
+        public delegate void Messege();
+
         public BaseObject(Point pos, Point dir, Size size)
         {
             Pos = pos;
