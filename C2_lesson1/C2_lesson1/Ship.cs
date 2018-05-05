@@ -17,6 +17,21 @@ namespace C2_lesson1
             _energy -= n;
         }
 
+        public void EnergyRefil(int n)
+        {
+            if (_energy < 100)
+            {
+                int f = 100 - n;
+                if (f > 75)
+                {
+                    int z = 100 - f;
+                    _energy += z;
+                }
+                else
+                    _energy += n;
+            }
+        }
+
         public Ship(Point pos, Point dir, Size size) : base(pos, dir, size)
         {
             img = Image.FromFile(@"ship.png");

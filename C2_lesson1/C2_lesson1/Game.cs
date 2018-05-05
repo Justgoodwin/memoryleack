@@ -116,6 +116,11 @@ namespace C2_lesson1
 
             foreach (Asteroid ast in _asteroids) ast?.Update();
 
+            foreach (IFAK ifak in _ifak)
+            {
+                ifak?.Update();
+            }
+
             for (int i = 0; i < _asteroids.Count; i++)
             {
                 if (_asteroids[i] == null) continue;
@@ -136,12 +141,17 @@ namespace C2_lesson1
                 {
                     CreateAsteroids(Asteroidscount + 1); //добавление астероидов в List
                 }
-
+                
                 if (_asteroids[i] == null || !_ship.Collision(_asteroids[i])) continue;
 
+                
+
                 var rnd = new Random();
+
                 _ship?.EnergyLow(rnd.Next(1, 10));
+
                 System.Media.SystemSounds.Asterisk.Play();
+
                 if (_ship.Energy <= 0) _ship?.Die();
             }
             

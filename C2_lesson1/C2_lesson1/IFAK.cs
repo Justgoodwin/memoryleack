@@ -8,12 +8,11 @@ namespace C2_lesson1
     class IFAK:BaseObject,ICloneable
     {
         private Image img;
-        public int Power { get; set; }
+        public  int Power { get; set; }
 
         public IFAK(Point pos, Point dir, Size size) : base(pos, dir, size)
         {
             img = Image.FromFile(@"IFAK.png");
-            Power = 25;
         }
         public object Clone()
         {
@@ -24,6 +23,10 @@ namespace C2_lesson1
         public override void Draw()
         {
             Game.Buffer.Graphics.DrawImage(img, Pos.X, Pos.Y, Size.Width, Size.Height);
+        }
+        public override void Update()
+        {
+            base.Update();
         }
     }
 }
