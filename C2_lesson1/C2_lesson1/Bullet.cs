@@ -14,7 +14,7 @@ namespace C2_lesson1
         }
         public override void Update()
         {
-            Pos.X = Pos.X + 3;
+            Pos.X = Pos.X + 5;
         }
     }
 }
